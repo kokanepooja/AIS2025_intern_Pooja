@@ -20,3 +20,11 @@ String Data Type:How to create strings using '',"",and """ """ String indexing a
 List Data Type: How to define and access list items list slicing,nested lists Mutable nature of lists.List methods:append(),.insert(),.remove(),.pops(),.sort(),.reverse() in keyword for membership.
 
 Tuple Data Type :How to create tuples using () differences between lists and tuples . Tuple indexing and slicing Use of tuples in functions and dictionary keys.
+
+Intern name:Kokane Pooja Dattatray. Date:-7 May 2025 Day3:Create notebooks for:Set and Dictionary .
+
+Discription for set:
+A set in Python is a built-in, mutable collection that stores unordered and unique elements. Each element in a set must be immutable, but the set itself can be modified (i.e., it's mutable). Sets are particularly useful for eliminating duplicates from data and performing mathematical set operations like union, intersection, and difference. Sets are defined using curly braces {} or the set() constructor.
+
+Discription for Dictionary:
+A dictionary in Python is a collection of key-value pairs, where each key is unique and immutable, and each value can be of any type. Dictionaries are unordered, mutable, and allow fast access to data using keys. Common operations include: Accessing: dict[key], .get(), Adding/Updating: dict[key] = value, Removing: .pop(), del dict[key], Listing: .keys(), .values(), .items()
