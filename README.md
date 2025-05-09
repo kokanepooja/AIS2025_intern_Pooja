@@ -39,4 +39,4 @@ Section 2: for Loop Iterating through lists, strings, and ranges
 
 Section 3: while Loop Looping based on condition Infinite loop handling
 
-Section 4: Control Statements break: Exit the loop early continue: Skip current iteration pass: Placeholder for future code
+Section 4: Control Statements break: Exit the loop early continue: Skip current iteration pass: Placeholder for future code.
