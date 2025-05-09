@@ -30,7 +30,7 @@ Discription for Dictionary:
 A dictionary in Python is a collection of key-value pairs, where each key is unique and immutable, and each value can be of any type. Dictionaries are unordered, mutable, and allow fast access to data using keys. Common operations include: Accessing: dict[key], .get(), Adding/Updating: dict[key] = value, Removing: .pop(), del dict[key], Listing: .keys(), .values(), .items()
 
 # Task 3
-Intern name:Kokane Pooja Dattatray. Date:-6 May 2025 Day2
+Intern name:Kokane Pooja Dattatray. Date:-9 May 2025 Day 5
 Pooja: This notebook covers essential Python control flow tools used in decision-making and iteration. Each section is designed with clear examples and explanations to help learners understand the logic and usage of different flow-control statements.
 
 Section 1: Conditional Statements if Statement if-else Statement if-elif-else Statement
@@ -40,3 +40,13 @@ Section 2: for Loop Iterating through lists, strings, and ranges
 Section 3: while Loop Looping based on condition Infinite loop handling
 
 Section 4: Control Statements break: Exit the loop early continue: Skip current iteration pass: Placeholder for future code.
+
+# Task 4:
+Intern name:Kokane Pooja Dattatray. Date:-9 May 2025 Day 5
+
+-This notebook explains the various function in python
+-User-defined functions for logical operations like Armstrong check, vowel counting, HCF, etc.-
+-Lambda functions for compact anonymous operations (e.g., cube, conversions).
+-Filter functions to extract specific data from lists.
+-Map functions to apply transformations to iterable data.
+-Format functions for clean string output
