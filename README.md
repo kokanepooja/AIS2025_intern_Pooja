@@ -50,3 +50,11 @@ Intern name:Kokane Pooja Dattatray. Date:-9 May 2025 Day 5
 -Filter functions to extract specific data from lists.
 -Map functions to apply transformations to iterable data.
 -Format functions for clean string output
+# task 5:
+Intern name:Kokane Pooja Dattatray. Date:-10 May 2025 Day 6
+This notebook demonstrates various functionalities of the NumPy library, a fundamental package for scientific computing in Python. The goal of this task is to explore key NumPy features including:
+-  Installation and import of NumPy
+- Creating arrays manually and using built-in functions
+- Performing basic arithmetic and statistical operations on arrays
+- Indexing, slicing, and reshaping arrays
+- Advanced operations such as broadcasting and aggregation
