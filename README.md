@@ -58,3 +58,45 @@ This notebook demonstrates various functionalities of the NumPy library, a funda
 - Performing basic arithmetic and statistical operations on arrays
 - Indexing, slicing, and reshaping arrays
 - Advanced operations such as broadcasting and aggregation
+
+## Internship Task – Python Functions and NumPy Implementation  
+Intern Name: Kokane Pooja Dattatray  Date: 12 February 2025  Internship Task
+
+# Task Overview
+This task focuses on strengthening core Python programming concepts and understanding the fundamentals of numerical computing using the NumPy library.
+The objective of this task is to build a strong foundation in logical problem-solving, functional programming and efficient numerical data handling, which are essential skills for data analysis and scientific computing.
+
+# Part 1: Python Functions
+In this section, various types of Python functions are implemented to enhance logical thinking and code reusability.
+The following concepts are demonstrated:
+User-defined functions for solving logical problems such as:
+Armstrong number check
+Vowel counting in a string
+Highest Common Factor (HCF) calculation
+Lambda functions for writing concise and anonymous operations
+Use of filter() function to extract specific elements from lists
+Use of map() function to apply transformations to iterable data
+String formatting methods for structured and clean output
+
+# Part 2: NumPy Library
+This section demonstrates the practical use of the NumPy library for numerical and array-based computations.
+The following topics are covered:
+Installation and import of NumPy
+Creation of arrays using built-in NumPy functions
+Performing arithmetic operations on arrays
+Applying statistical functions such as mean, median, standard deviation, and sum
+Indexing and slicing arrays
+Reshaping arrays into different dimensions
+Understanding broadcasting mechanism
+Using aggregation functions for efficient computation
+
+# Objective of the Task
+To improve understanding of Python programming fundamentals
+To develop logical and analytical problem-solving skills
+To gain hands-on experience with NumPy for efficient numerical computation
+To build foundational skills required for data analysis and machine learning
+
+# Conclusion
+This task enhanced my understanding of Python functions and introduced efficient numerical computing using NumPy. 
+It strengthened my programming fundamentals and provided practical exposure to array operations, functional programming and data manipulation techniques.
+
