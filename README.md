@@ -59,14 +59,14 @@ This notebook demonstrates various functionalities of the NumPy library, a funda
 - Indexing, slicing, and reshaping arrays
 - Advanced operations such as broadcasting and aggregation
 
-## Internship Task – Python Functions and NumPy Implementation  
+# Internship Task – Python Functions and NumPy Implementation  
 Intern Name: Kokane Pooja Dattatray  Date: 12 February 2025  Internship Task
 
-# Task Overview
+## Task Overview
 This task focuses on strengthening core Python programming concepts and understanding the fundamentals of numerical computing using the NumPy library.
 The objective of this task is to build a strong foundation in logical problem-solving, functional programming and efficient numerical data handling, which are essential skills for data analysis and scientific computing.
 
-# Part 1: Python Functions
+## Part 1: Python Functions
 In this section, various types of Python functions are implemented to enhance logical thinking and code reusability.
 The following concepts are demonstrated:
 User-defined functions for solving logical problems such as:
@@ -78,7 +78,7 @@ Use of filter() function to extract specific elements from lists
 Use of map() function to apply transformations to iterable data
 String formatting methods for structured and clean output
 
-# Part 2: NumPy Library
+## Part 2: NumPy Library
 This section demonstrates the practical use of the NumPy library for numerical and array-based computations.
 The following topics are covered:
 Installation and import of NumPy
@@ -90,7 +90,7 @@ Reshaping arrays into different dimensions
 Understanding broadcasting mechanism
 Using aggregation functions for efficient computation
 
-# Objective of the Task
+## Objective of the Task
 To improve understanding of Python programming fundamentals
 To develop logical and analytical problem-solving skills
 To gain hands-on experience with NumPy for efficient numerical computation
