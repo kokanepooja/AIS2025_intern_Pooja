@@ -61,10 +61,12 @@ This notebook demonstrates various functionalities of the NumPy library, a funda
 
 # Internship Task – Python Functions and NumPy Implementation  
 Intern Name: Kokane Pooja Dattatray  Date: 12 February 2025  Internship Task
-## Task Overview
+
+Task Overview
 This task focuses on strengthening core Python programming concepts and understanding the fundamentals of numerical computing using the NumPy library.
 The objective of this task is to build a strong foundation in logical problem-solving, functional programming and efficient numerical data handling, which are essential skills for data analysis and scientific computing.
-## Part 1: Python Functions
+
+Part 1: Python Functions
 In this section, various types of Python functions are implemented to enhance logical thinking and code reusability.
 The following concepts are demonstrated:
 User-defined functions for solving logical problems such as:
@@ -75,7 +77,8 @@ Lambda functions for writing concise and anonymous operations
 Use of filter() function to extract specific elements from lists
 Use of map() function to apply transformations to iterable data
 String formatting methods for structured and clean output
-## Part 2: NumPy Library
+
+Part 2: NumPy Library:
 This section demonstrates the practical use of the NumPy library for numerical and array-based computations.
 The following topics are covered:
 Installation and import of NumPy
@@ -86,12 +89,46 @@ Indexing and slicing arrays
 Reshaping arrays into different dimensions
 Understanding broadcasting mechanism
 Using aggregation functions for efficient computation
-## Objective of the Task
+
+Objective of the Task:
 To improve understanding of Python programming fundamentals
 To develop logical and analytical problem-solving skills
 To gain hands-on experience with NumPy for efficient numerical computation
 To build foundational skills required for data analysis and machine learning
-## Conclusion
+
+Conclusion:
 This task enhanced my understanding of Python functions and introduced efficient numerical computing using NumPy. 
 It strengthened my programming fundamentals and provided practical exposure to array operations, functional programming and data manipulation techniques.
 
+# Superstore Business Intelligence Dashboard
+Intern Name: Kokane Pooja Dattatray  Date: 13 February 2025  Internship Task
+Project Overview
+This project presents an interactive Business Intelligence dashboard built using Microsoft Power BI. The dashboard analyzes the Superstore dataset to uncover key insights related to sales, profit, customer segments, and regional performance.
+The objective is to transform raw sales data into meaningful business insights through effective data visualization and storytelling.
+
+Key Features:
+✔ Interactive Slicers (Region Filter)
+✔ KPI Cards (Sales, Profit, Quantity, Growth %)
+✔ Sales by Region (Bar Chart)
+✔ Sales by Sub-Category (Bar Chart)
+✔ Sales by Segment (Pie Chart)
+✔ Profit vs Sales Analysis (Scatter Plot)
+✔ Geographic Sales Distribution (Map)
+✔ Top Customers Table
+
+ Dashboard Insights:
+- West region generates the highest sales.
+- Technology category contributes significantly to revenue.
+- Consumer segment drives the majority of sales.
+- Some sub-categories show high sales but lower profitability.
+- Geographic visualization highlights regional performance variations.
+
+Tools Used:
+- Microsoft Power BI
+- Superstore Dataset
+- Data Cleaning using Power Query
+- Interactive Filters & Drill Features
+
+ Business Value
+This dashboard helps decision-makers:
+- Identify high-performing regions and categories
