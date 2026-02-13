@@ -50,7 +50,7 @@ Intern name:Kokane Pooja Dattatray. Date:-9 May 2025 Day 5
 -Filter functions to extract specific data from lists.
 -Map functions to apply transformations to iterable data.
 -Format functions for clean string output
-# task 5:
+# Task 5:
 Intern name:Kokane Pooja Dattatray. Date:-10 May 2025 Day 6
 This notebook demonstrates various functionalities of the NumPy library, a fundamental package for scientific computing in Python. The goal of this task is to explore key NumPy features including:
 -  Installation and import of NumPy
@@ -100,21 +100,21 @@ Conclusion:
 This task enhanced my understanding of Python functions and introduced efficient numerical computing using NumPy. 
 It strengthened my programming fundamentals and provided practical exposure to array operations, functional programming and data manipulation techniques.
 
-# Superstore Business Intelligence Dashboard
+# Task-2 Superstore Business Intelligence Dashboard
 Intern Name: Kokane Pooja Dattatray  Date: 13 February 2025  Internship Task
 Project Overview
 This project presents an interactive Business Intelligence dashboard built using Microsoft Power BI. The dashboard analyzes the Superstore dataset to uncover key insights related to sales, profit, customer segments, and regional performance.
 The objective is to transform raw sales data into meaningful business insights through effective data visualization and storytelling.
 
 Key Features:
-✔ Interactive Slicers (Region Filter)
-✔ KPI Cards (Sales, Profit, Quantity, Growth %)
-✔ Sales by Region (Bar Chart)
-✔ Sales by Sub-Category (Bar Chart)
-✔ Sales by Segment (Pie Chart)
-✔ Profit vs Sales Analysis (Scatter Plot)
-✔ Geographic Sales Distribution (Map)
-✔ Top Customers Table
+- Interactive Slicers (Region Filter)
+- KPI Cards (Sales, Profit, Quantity, Growth %)
+- Sales by Region (Bar Chart)
+- Sales by Sub-Category (Bar Chart)
+- Sales by Segment (Pie Chart)
+- Profit vs Sales Analysis (Scatter Plot)
+- Geographic Sales Distribution (Map)
+- Top Customers Table
 
  Dashboard Insights:
 - West region generates the highest sales.
